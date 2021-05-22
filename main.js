@@ -4,19 +4,16 @@ const pessoa = {
     idade: 18,
     corPreferida: "Azul"
 }
-console.log(pessoa)
 
 //Desafio 6 - número 2
 
 pessoa.filmePreferido = "Velozes e Furiosos"
 
-console.log(pessoa)
 
 //Desafio 6 - número 3
 
 delete pessoa.idade
 
-console.log(pessoa)
 
 //Desafio 6 - número 4
 
